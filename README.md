@@ -136,7 +136,7 @@ The Power BI dashboard is organized into three interactive pages, each designed 
 Displays patient trends, admissions, wait times, and satisfaction month by month.
 
 Helps identify seasonal patterns, peak months, and performance changes over time.
-![Hospital ER Dashboard]("C:\Users\ramya\OneDrive\Pictures\Screenshots\Screenshot 2025-09-09 143323.png")
+![Monthly View](images/Hospital monthly view.png)
 
 **Consolidated View**
 
@@ -145,7 +145,7 @@ Provides a high-level overview of all ER operations.
 Includes key metrics such as total patients, average wait time, satisfaction scores, referral counts, and admission rates.
 
 Enables hospital administrators to quickly assess overall ER performance.
-![Hospital ER Dashboard]("C:\Users\ramya\OneDrive\Pictures\Screenshots\Screenshot 2025-09-09 144042.png")
+![Consolidated View](images/Hospital consolidated view.png)
 
 **Patient Details Page**
 
@@ -153,4 +153,4 @@ Lists individual patient records with key details: age, gender, race, wait time,
 
 Useful for detailed analysis, audits, and identifying specific patient-level trends or bottlenecks.
 
-![Hospital ER Dashboard]("C:\Users\ramya\OneDrive\Pictures\Screenshots\Screenshot 2025-09-09 144103.png")
+![Patient Details Page](images/Hospital patient details.png)
